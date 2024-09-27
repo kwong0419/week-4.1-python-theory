@@ -1,6 +1,8 @@
 # Python Lesson: Lists, Tuples, Dictionaries, and Loops
 
 <img src="./assets/logo.png" alt="Python Logo" width="200">
+
+
 ## Overview
 
 This lesson introduces fundamental data structures and control flow concepts in Python, with comparisons to JavaScript. It covers lists, tuples, dictionaries, and loops, providing a solid foundation for working with collections and iterating over data in Python. 
