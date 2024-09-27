@@ -27,7 +27,7 @@ By the end of this lesson, you should be able to:
 
 - [Lesson](lesson.ipynb)
 
-- [Assignment from Manager](https://github.com/jdrichards-pursuit/week-4.2-python-practice)
+- [Assignment from Your Manager](https://github.com/jdrichards-pursuit/week-4.2-python-practice)
 
 ## Materials
 
