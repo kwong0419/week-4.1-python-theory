@@ -23,6 +23,10 @@ By the end of this lesson, you should be able to:
 10. Compare dictionary methods to JavaScript object methods
 11. Recognize the similarities and differences between Python's data structures and their JavaScript counterparts
 
+**NOTE** in the bottom right corner of the screen. Hoever over the `Cursor Tab` and in the box, choose `Disable Globally`. Also choose `disabled` in the `Cursor Prediction` dropbox  This will enable you to create the code on your own without the help of Cursor. Creating the functions yourself will help you learn the material.
+
+
+
 ## Links
 
 - [Lesson](lesson.ipynb)
